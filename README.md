@@ -2,6 +2,8 @@
 تحتوي هذه الدورة على دروس Java التعليمية التي ستساعدك على تعلم لغة Java بسرعة كبيرة وسهولة عن طريق حل أسئلة مختلفة لتغطية معظم موضوعات Java. يرجى مشاركة أي أسئلة تود طرحها وسيسعدني جدًا تحميل مقطع فيديو مطلوب لأسئلتك!
 This course contains Java Tutorials that will help you to learn Java Language very quickly and easily by solving different questions to cover most of the Java topics.  Please share any questions you would to ask and I will be more than happy to upload a need video for your questions !
  
+ Watch the video on YouTube: 
+ https://www.youtube.com/watch?v=Ydsqiu_JVPg 
 محتويات الفيديو:
 1. إنشاء مشروع وفصول
 2. طباعة البيان
